@@ -1,0 +1,33 @@
+li {
+    display: inline;
+}
+
+li a:hover{
+    text-decoration: underline;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: slategray
+}
+
+li a{
+  text-decoration: none;
+  color: slategray
+}
+
+button{
+    display: inline-block;
+    margin: 5;
+    color: gray;
+}
+
+button:hover{
+    color: black;
+}
+
+.center{
+    text-align:center;
+}
